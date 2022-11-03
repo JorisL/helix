@@ -1,2 +1,2 @@
 # helix
-my Helix editor config
+my [Helix editor](https://helix-editor.com) config
